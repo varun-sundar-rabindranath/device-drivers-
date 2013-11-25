@@ -1,0 +1,4 @@
+#!/bin/sh
+rmmod yaaah_device
+insmod ./yaaah_device.ko
+ 
